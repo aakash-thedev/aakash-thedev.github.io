@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(contemporary-dark-electronics-234527.jpg);
+	background-size: cover;
+}
+.container{
+	text-align: center;
+}
+h4{
+	color: white;
+	/*border-bottom: 2px solid rgba(000, 000, 000, 0.6);
+	width: 550px;
+	text-align: center;*/
+}
+.btn-primary{
+	background-color: red;
+	border-radius: 300px;
+}
+.btn-primary:hover{
+	background-color: blue;
+}
